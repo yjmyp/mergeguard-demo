@@ -1,0 +1,3 @@
+payment:
+  endpoint: https://pay.example.com
+  api-key: "sk-live-1234567890abcdef"
